@@ -5,11 +5,11 @@
 
 #### Pages/Tabs on the report are:
 
-1- Home (used for page navigation)
-2- Dashboard (gives and overall summary)
-3- Devices
-4- Ecommerce
-5- Pages
-6- Traffic Sources
-7- Website Overview
+1. Home (used for page navigation)
+2. Dashboard (gives and overall summary)
+3. Devices
+4. Ecommerce
+5. Pages
+6. Traffic Sources
+7. Website Overview
 
